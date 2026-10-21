@@ -21,9 +21,6 @@ underused or overloaded so they can plan capacity better.
 - [e.g., Idle Time / Occupancy]
 - [e.g., Capacity vs Demand]
 
-## Key Insights
-- [Write 2-3 real findings from your dashboard]
-
 ## Files
 - `Hospital Asset Utilization & Capacity Planning Dashboard.pbix`: Power BI file
 
